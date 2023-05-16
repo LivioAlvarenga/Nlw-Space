@@ -1,0 +1,6 @@
+.vscode
+
+# Files
+files/*.txt
+**/*.mp4
+**/*.xcf
