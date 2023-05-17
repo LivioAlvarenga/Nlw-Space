@@ -3,4 +3,6 @@
 # Files
 files/*.txt
 **/*.mp4
+**/*.mkv
 **/*.xcf
+**/*.zip
